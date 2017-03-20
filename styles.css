@@ -1,0 +1,38 @@
+body {
+    background-image: url("images/background.jpg");
+    margin-left: 100px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 1em;
+}
+
+h2 {
+    font-family: Rockwell;
+    font-size: 35px;
+}
+
+h1 {
+    font-family: Rockwell;
+    font-size: 50px;
+}
+
+p {
+    font-family:Tahoma;
+    font-size:20px;
+}
+
+p {
+    margin-right: 400px;
+}
+
+figcaption {
+    padding-bottom: 50px;
+}
